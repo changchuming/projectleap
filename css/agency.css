@@ -7,6 +7,7 @@
 video {
     background: #222;
     width:100%;
+	min-height: 759px;
     background-size: cover;
     transition: 1s opacity;
     opacity: 0.5;
@@ -293,6 +294,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	min-height: 759px;
 }
 
 header .intro-text {
