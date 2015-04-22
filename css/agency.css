@@ -32,6 +32,29 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+section#mission {
+    background-color: #222;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../img/hope.jpg);
+}
+
+section#mission, section#contact h2 {
+	color: #BABABA;
+}
+
+section#mission, section#contact h3 {
+	color: #BABABA;
+}
+
+section#mission p {
+	color: #fff;
+}
+
+section#contact p {
+	color: #fff;
+}
+
 .text-muted {
     color: #777;
 }
@@ -681,7 +704,7 @@ section#contact {
     background-repeat: no-repeat;
 }
 
-section#contact .section-heading {
+1#contact .section-heading {
     color: #fff;
 }
 
